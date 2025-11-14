@@ -131,7 +131,7 @@ VPN-конфигурации на вашем устройстве удобнее
 
 </details>
 
-> **Полный список (даже с конфигурациями, не прошедшими проверку)**:  [White_Lists_Full_Rus.txt](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/White_Lists_Full_Rus.txt)
+> **Полный список (даже с конфигурациями, не прошедшими проверку)**:  [White_Lists_Full_Rus.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/White_Lists_Full_Rus.txt)
 
 <details>
 <summary> QR-код </summary>
