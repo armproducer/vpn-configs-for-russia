@@ -45,7 +45,9 @@
 
 **2)** **Выбираем платформу: кабельный или мобильный интернет** (обычно то, что работает на кабеле - не всегда работает в мобильном интернете и наоборот, но ради интереса можете миксовать);
 
-**3)** **Выбираем** самый устойчивый протокол **Vless+Reality**, а **Shadowsocks/Hysteria2** используем как альтернативу.
+**3)** **Выбираем** самый устойчивый протокол **Vless+Reality**, а **Shadowsocks/Hysteria2** используем как альтернативу. 
+
+*Уточню, что Hysteria2 у меня прекрасно работает на ПК через кабель, но на смартфоне через Wifi отказывается, почему - пока не выяснил. Vless и Shadowsocks работают на любых устройствах без проблем.*
 
 ## 🖥️ Как мне воспользоваться этими конфигурациями у себя на устройстве 
 VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"подписку"* или *"группу подписки"*, копируя url-адрес txt-файла Github из следующего пункта. 
@@ -56,32 +58,88 @@ VPN-конфигурации на вашем устройстве удобнее
 
 <details>
 
-<summary>📋 Черный список ⚫</summary>
-.
+<summary>📋 ЧЕРНЫЙ СПИСОК ⚫</summary>
+
+---
 
 > **Протестировано на кабельном провайдере**:
 
-Vless+Reality [Vless-Reality-Black-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-Black-Lists-Rus-Cable.txt)
+**Vless+Reality** [Vless-Reality-Black-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-Black-Lists-Rus-Cable.txt)
 
-Shadowsocks/Hysteria2 [Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt)
+<details>
+<summary> QR-код </summary>
+
+  ![Vless-Reality-Black-Lists-Rus-Cable-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-Black-Lists-Rus-Cable-QR.png)
+
+</details>
+
+**Shadowsocks/Hysteria2** [Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt)
+
+<details>
+<summary> QR-код </summary>
+
+  ![Shadowsocks-Hysteria2-Black-Lists-Rus-Cable-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Shadowsocks-Hysteria2-Black-Lists-Rus-Cable-QR.png)
+
+</details>
+
+---
 
 > **Протестировано на  мобильном операторе** :
 
-Vless+Reality [Vless-Reality-Black-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-Black-Lists-Rus-Mobile.txt)
+**Vless+Reality** [Vless-Reality-Black-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-Black-Lists-Rus-Mobile.txt)
 
-Shadowsocks/Hysteria2 [Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile.txt)
+<details>
+<summary> QR-код </summary>
+
+  ![Vless-Reality-Black-Lists-Rus-Mobile-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-Black-Lists-Rus-Mobile-QR.png)
+
 </details>
+
+**Shadowsocks/Hysteria2** [Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile.txt)
+
+<details>
+<summary> QR-код </summary>
+
+  ![Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Shadowsocks-Hysteria2-Black-Lists-Rus-Mobile-QR.png)
+
+</details>
+
+</details>
+
+---
 
 <details>
 
-<summary>📋 Белый список ⚪</summary>
+<summary>📋 БЕЛЫЙ СПИСОК ⚪</summary>
 .
 
 > **Протестировано на кабельном провайдере**:  [Vless-Reality-White-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
 
+<details>
+<summary> QR-код </summary>
+
+  ![Vless-Reality-White-Lists-Rus-Cable-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Cable-QR.png)
+
+</details>
+
 > **Протестировано на мобильном операторе** :  [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
+<details>
+<summary> QR-код </summary>
+
+  ![Vless-Reality-White-Lists-Rus-Mobile-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-QR.png)
+
+</details>
+
 > **Полный список (даже с конфигурациями, не прошедшими проверку)**:  [White_Lists_Full_Rus.txt](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/White_Lists_Full_Rus.txt)
+
+<details>
+<summary> QR-код </summary>
+
+  ![White_Lists_Full_Rus-QR](https://github.com/GoldCaviar/vpn-configs-for-russia/blob/main/QR-codes/White_Lists_Full_Rus-QR.png)
+
+</details>
+
 </details>
 
 ## Приложения на ПК и телефоне: 
