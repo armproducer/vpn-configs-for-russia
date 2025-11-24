@@ -136,7 +136,7 @@ VPN-конфигурации на вашем устройстве удобнее
 
 ---
 
-**VLESS КАБЕЛЬ**::  [Vless-Reality-White-Lists-Rus-Cable](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
+**VLESS КАБЕЛЬ**::  [Vless-Reality-White-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
 
 <details>
 <summary> QR-код </summary>
@@ -145,7 +145,7 @@ VPN-конфигурации на вашем устройстве удобнее
 
 </details>
 
-**VLESS ТЕЛЕФОН**:  [Vless-Reality-White-Lists-Rus-Mobile](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
+**VLESS ТЕЛЕФОН**:  [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
 <details>
 <summary> QR-код </summary>
