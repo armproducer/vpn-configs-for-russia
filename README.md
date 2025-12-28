@@ -7,6 +7,10 @@
 
 Перед опубликованием конфиги всегда проходят тесты на скорость/задержку на кабельном/мобильном интернете на сервере в РФ, медленные и неработающие отсеиваются. 
 
+## ❗ВНИМАНИЕ❗ ТЕПЕРЬ ПОДПИСКА РАБОТАЕТ НА АВТООБНОВЛЕНИИ РАЗ В ЧАС❗ 
+
+## 🎄С НОВЫМ ГОДОМ 🎄
+
 ## 📑 Это просто коллекция публичных VPN? ☝️ Не совсем!
 Это не просто коллекция бесплатных, собранных со всего интернета конфигов VPN. 
 
@@ -337,7 +341,7 @@ VPN-конфигурации на вашем устройстве удобнее
 
 ---
 
-### **VLESS ТЕЛЕФОН ⚪:** ➝ [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
+### **VLESS ТЕЛЕФОН (ПОЛНАЯ CIDR-ПОДПИСКА) ⚪:** ➝ [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
 <details>
 <summary> QR-код </summary>
@@ -346,9 +350,28 @@ VPN-конфигурации на вашем устройстве удобнее
 
 </details>
 
+*Эта подписка содержит все известные белые подсети от разных хостеров*
+
 *Включите автообновление у себя в VPN-клиенте!*
 
-### **VLESS КАБЕЛЬ ⚪:** ➝ [Vless-Reality-White-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
+
+### **VLESS ТЕЛЕФОН 2 (CIDR-ПОДПИСКА С ЗАРЕКОМЕНДОВАВШИМИ СЕБЯ ХОСТЕРАМИ: VK, YANDEX, CDNVIDEO) ⚪:** 
+
+### ➝ [WL_CIDR_RU_CHECKED.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WL_CIDR_RU_CHECKED.txt)
+
+<details>
+<summary> QR-код </summary>
+
+  ![WL_CIDR_RU_CHECKED-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WL_CIDR_RU_CHECKED-QR.png)
+
+</details>
+
+*В этой подписке только зарекомендовавшие себя белые подсети от: VK, YANDEX, CDNVIDEO. Она поменьше полной CIDR-подписки.*
+
+*Включите автообновление у себя в VPN-клиенте!*
+
+
+### **VLESS КАБЕЛЬ (SNI-ПОДПИСКА) ⚪:** ➝ [Vless-Reality-White-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
 
 <details>
 <summary> QR-код </summary>
@@ -356,17 +379,6 @@ VPN-конфигурации на вашем устройстве удобнее
   ![WHITE_VLESS_CABLE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Cable-QR.png)
 
 </details>
-
-### **УДАЛЕННЫЕ:** ➝ [WHITE_DELETED.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE_DELETED.txt)
-
-<details>
-<summary> QR-код </summary>
-
-  ![WHITE_DELETED-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE_DELETED-QR.png)
-
-</details>
-
-*Удаленные конфигурации: заметил, что конфиги для белых списков периодически (но не всегда) оживают, поэтому нерабочие будут удаляться и перемещаться в отдельный файл "WHITE_DELETED.txt" и иногда проверяться на пульс.*
 
 </details>
 
