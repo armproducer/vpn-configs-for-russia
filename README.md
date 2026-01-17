@@ -1,7 +1,15 @@
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wb2hhbW54aml6bGUwb3VjODYxbGljM2VnbmthMWJtdWFzdXloYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="80">  Бесплатные VPN-конфигурации, работающие в РФ 
 
-# 🌏 Бесплатные VPN-конфигурации, работающие в РФ 
+[![stars](https://custom-icon-badges.demolab.com/github/stars/igareck/vpn-configs-for-russia?logo=star&&style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers "stars")
+<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/igareck/vpn-configs-for-russia?logo=issue&color=0e75b6&style=flat)](https://github.com/igareck/vpn-configs-for-russia/issues "issues")
+[![last commit][1]][1]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102&color=0e75b6&style=flat)](https://github.com/ellerbrock/open-source-badge/)
 
-🌟 Коллекция публичных и бесплатных, автообновляемых и автопроверяемых VPN-конфигураций, протестированных для работы на территории Российской Федерации  (`VLESS` / `VMess` / `Shadowsocks` /`Hysteria2` / `Tuic`/ `Trojan` и другие).
+[1]: https://custom-icon-badges.demolab.com/github/last-commit/igareck/vpn-configs-for-russia?logo=history&logoColor=white&color=0e75b6&style=flat
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> Коллекция публичных и бесплатных, автообновляемых и автопроверяемых VPN-конфигураций, протестированных для работы на территории Российской Федерации  (`VLESS` / `VMess` / `Shadowsocks` /`Hysteria2` / `Tuic`/ `Trojan` и другие).
 
 Для обхода блокировок Роскомнадзора (РКН).
 
@@ -166,7 +174,7 @@
 
 ---
 
-## ❓ В чем разница между черными и белыми списками и какую подписку выбрать
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjF5NnEyM21vMjJhd2UxdWphYnQxZGh6bjc1bjBzMG44eDB0Ym03eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dyX9ixfxMpOUGawfdK/giphy.gif" width="50"> В чем разница между черными и белыми списками и какую подписку выбрать
 **Черные списки** - это когда **"разрешено все, что не запрещено"**. *Это обычная работа интернета в 90% случаев*.
 
 **Белые списки** - это когда **"запрещено все, что не разрешено"**. Это когда у вас не получается никуда зайти кроме Яндекса, ВКонтакте и других утвержденных РКН сайтов, даже Google.com и GMail не откроется.
@@ -179,7 +187,7 @@
 
 `Если вдруг "не грузит ни в какую", то часто помогает сброс подключения к сети: включаете "Авиарежим" на 10-15 секунд, потом выключаете, пробуете подключение снова - профит!`
 
-### **1)** **Выбираем сначала черное или белое** ⚫⚪: 
+### **1)** **Выбираем сначала черное или белое**:  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3Q4NW94NXo0ZXQwajl1cDRzdHg3ZXFzbWc4aGtzeDA0cGRtNTl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/35LH6GkOzEXuw/giphy.gif" width="80">  
 
 а) В стандартной ситуации, когда интернет работает как обычно: открывается Google, но захотели посмотреть заблокированный YouTube или поиграть в заблокированный Roblox - используем конфигурации "Черный список". 
 
@@ -209,7 +217,7 @@
   
   Конфигурации, обходящие самые легкие блокировки по белым SNI-спискам (просто по названию домена), я положил в TXT-подписку **SNI-ПОДПИСКА**. Помечены они как `[SNI-RU]` в примечаниях к каждому конфигу, все SNI также подписаны для удобства.
 
-## 🖥️ Как мне воспользоваться этими конфигурациями у себя на устройстве 
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yml0MndhcDZ6dzFuYjY3aG0yNWowN2Rqbnp1aTV2cXNvb3FvMnluMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MxryCOQuSYVVD0SPyp/giphy.gif" width="40"> Как мне воспользоваться этими конфигурациями у себя на устройстве 
 1) VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"подписку"* или *"группу подписки"* в v2rayN, Throne, v2rayNG, NekoBox, Streisand или Karing.
 
 2) Копируйте Url-адрес txt-файла Github. Скопировав ссылку, в приложении нужно нажать "Добавить из буфера обмена" или использовать обычную кнопку "Добавить" -> "Настроить вручную" -> тип "Подписка" -> вставить ссылку на txt-файл и задать имя подписке.
@@ -229,7 +237,7 @@
 Можно, также, добавлять все вручную по-отдельности, просто копируя содержимое каждого txt-файла в клиент v2rayN и др., но подписки удобнее тем, что они обновляются автоматически у вас на устройстве после обновления на Github, без необходимости удаления и нового копирования, упрощая процесс.
 
 ## 🧩 Приложения для конфигов на ПК и телефоне: 
-### - 🖥️ Windows/Linux/MacOS 
+###  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtqMmQxOGh0aG0waGk5OGhhNG5odmdob2k1bWc4ejNyZ3E3N2Y2bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="25"> Windows/Linux/MacOS 
 
 Установите официальный клиент v2rayN или Throne (преемник Nekoray), запустите в "режиме Администратора", добавьте конфиг/подписку, обновите ее, появится список, нажмите на проверку "реальной задержки", после завершения - отсортируйте по пингу, выберите зеленый с наименьшим числом, нажав на нем Enter, в конце запустите "Режим VPN/Режим TUN".
 
@@ -277,7 +285,7 @@
   
    `singbox-launcher-v0.7.1-macos.zip` для MacOS
 
-### - 📱 iOS - используйте Streisand, Shadowrocket, Karing, V2Box или v2RayTun из App Store.
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS - используйте Streisand, Shadowrocket, Karing, V2Box или v2RayTun из App Store.
 
   Рекомендую Streisand, так как заявлено об отсутствии сбора данных в App Store, а также все функции, включая смену DNS работают исправно в отличие от других подобных клиентов, загрузка и работа конфигов стабильна.
 
@@ -299,7 +307,7 @@
 
    **5)** `v2RayTun` https://apps.apple.com/us/app/v2raytun/id6476628951
   
-### - 📱 Android - используйте v2rayNG и NekoBox из GitHub или v2Box и v2RayTun из Google Play.
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUzYWRwNzNpa3doMDd1bXo4NTlzanJsaTcya3dlNXA4d3c5cnVzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20"> Android - используйте v2rayNG и NekoBox из GitHub или v2Box и v2RayTun из Google Play.
 
  Рекомендую v2rayNG, так как это аналог моего фаворита v2rayN для ПК от того же разработчика "2dust", но для Андроида.
 
@@ -316,7 +324,7 @@
   **4)** `v2RayTun` https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
 
 
-## 📑 Полезная информация
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxeG02NHlucTdqZGhtejBnb2V5dGpwaDBmcHhobWlsOHQxdWpoYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8L0hXHQkY4o7eyQHJB/giphy.gif" width="30"> Полезная информация
 
 ⚡ Зачем я вообще тестирую конфигурации? В самом начале из 40.000+ взятых на пробу бесплатных публичных конфигураций - проверку на работоспособность прошли примерно 700 штук, а это менее 2%, а в итоге тут выложил около 200 самых качественных с высоким откликом и приличной скоростью, а это уже пол процента. Не у каждого есть время разбираться со сборками из десятков тысяч конфигураций, где реально работающих только пару сотен.
 
@@ -535,7 +543,7 @@ https://github.com/uazo/cromite
 
 ##  
 
-## 🗽 Делитесь подписками! 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJoeTEzZ3FtcGNrdmo2ZnFocDUwOTVvYmdjNWRnaWMwNHozMWN1YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="25"> Делитесь подписками! 
 
 ## Пользуйтесь интернетом свободно и ответственно!
 
@@ -543,7 +551,7 @@ https://github.com/uazo/cromite
 
 Лицензия GPL-3.0. С лицензией можно ознакомиться в файле [`LICENSE`](LICENSE)
 
-## 🪙 Поддержать автора
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwMmJ3bDZvMWV2b2JraXZ4ZWk2Y2I5ODYyZ2M2aG5mMHc5ZW81ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ME8P6ce7Mn3gnRbird/giphy.gif" width="30"> Поддержать автора
 
 **Проект некоммерческий и основан на личном энтузиазме автора.**
 
@@ -580,13 +588,13 @@ https://github.com/uazo/cromite
 > *Нажмите на стрелку, чтобы раскрыть список*
 
 ## 👀 Количество посетителей
-<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=igareck.visitor-badge&left_color=black&right_color=green&left_text=Cyber+Hits" alt="Cyber Hits"/>  
+<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=igareck.visitor-badge&left_color=black&right_color=green&left_text=Cyber+Hits" alt="Cyber Hits"/>  
 </div>
 
-## ⭐⭐⭐
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="30"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="30"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="30">
 <a href="https://www.star-history.com/#igareck/vpn-configs-for-russia&type=date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=igareck/vpn-configs-for-russia&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=igareck/vpn-configs-for-russia&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=igareck/vpn-configs-for-russia&type=date&legend=top-left" /></picture></a>
 
-## ⚠️ ДИСКЛЕЙМЕР
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z25rOXRoeW1xODR1dWh2b3UycTd6YnB0Y2hlMTZtaDluZW1uNnl4ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CeYEKonyFQyzWhxmvd/giphy.gif" width="40"> ДИСКЛЕЙМЕР
 
 > *Автор не является владельцем/разработчиком/поставщиком перечисленных VPN-конфигураций. Это независимый информационный обзор и результаты тестирования.*
 >
