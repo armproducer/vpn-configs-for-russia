@@ -1,4 +1,4 @@
-Date/Time: 2026-01-21 / 08:25 (Moscow)
+Date/Time: 2026-01-21 / 11:52 (Moscow)
 For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%5BBL%5D
 vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443?security=tls&type=ws&path=%2F&host=ww3.xaniujp1.qzz.io&sni=ww3.xaniujp1.qzz.io&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%5BBL%5D
